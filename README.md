@@ -41,7 +41,7 @@ separated by spaces.
 
 ### <a name='data'>Datasets</a>
 
-The folder ``./data/` contains the following datasets from the 
+The folder ``./data/`` contains the following datasets from the 
 [UCR time series repository ](http://www.cs.ucr.edu/~eamonn/time_series_data/)[[2]](#refs2):
 
 * CBF
