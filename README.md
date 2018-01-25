@@ -24,7 +24,7 @@ spaces [[1]](#ref1).
 1. Specify datasets and parameters in file ``resources/DTWGLVQ.properties``.
 1. Run main class ``AppDTWGLVQ`` in package ``app``.
 
-The property-file ``DGLVQ.properties` describes all parameters that can be set. Using the default-setting, the program 
+The property-file ``DGLVQ.properties`` describes all parameters that can be set. Using the default-setting, the program 
 can be started without modification.
 
 
