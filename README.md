@@ -20,7 +20,7 @@ spaces [[1]](#ref1).
 
 ### <a name='start'>Quick Start</a>
 
-1. Integrate project ``jdtwGLVQ` into an IDE (e.g. Intellij Idea).
+1. Integrate project ``jdtwGLVQ`` into an IDE (e.g. Intellij Idea).
 1. Specify datasets and parameters in file ``resources/DTWGLVQ.properties``.
 1. Run main class ``AppDTWGLVQ`` in package ``app``.
 
