@@ -35,7 +35,7 @@ series ``(x_1, ..., x_n)`` in the following format:
 
     y  x_1  x_2  ...  x_n
 
-The class label ``y`` must be an integer. The elements ```x_i`` of the time series are real numbers. All numbers are 
+The class label ``y`` must be an integer. The elements ``x_i`` of the time series are real numbers. All numbers are 
 separated by spaces.
 
 
