@@ -21,7 +21,7 @@ spaces [[1]](#ref1).
 ### <a name='start'>Quick Start</a>
 
 1. Integrate project ``jdtwGLVQ` into an IDE (e.g. Intellij Idea).
-1. Specify datasets and parameters in file ``resources/DTWGLVQ.properties`.
+1. Specify datasets and parameters in file ``resources/DTWGLVQ.properties``.
 1. Run main class ``AppDTWGLVQ`` in package ``app``.
 
 The property-file ``DGLVQ.properties` describes all parameters that can be set. Using the default-setting, the program 
@@ -35,7 +35,7 @@ series ``(x_1, ..., x_n)`` in the following format:
 
     y  x_1  x_2  ...  x_n
 
-The class label ``y` must be an integer. The elements ```x_i` of the time series are real numbers. All numbers are 
+The class label ``y`` must be an integer. The elements ```x_i` of the time series are real numbers. All numbers are 
 separated by spaces.
 
 
